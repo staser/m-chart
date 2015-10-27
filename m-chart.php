@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: M Chart
+Plugin Name: WP-PRO Chart Engine
 Version: 1.1.4
 Plugin URI: http://github.com/methnen/m-charts
 Description: Manage data sets and display them as charts in WordPress.
